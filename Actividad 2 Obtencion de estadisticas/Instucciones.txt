@@ -1,0 +1,1 @@
+Para correr el programa el archivo dat.csv debe estar en una carpeta nombrada "Car accidents" dentro de la misma carpeta en la que se encuentra el programa.
