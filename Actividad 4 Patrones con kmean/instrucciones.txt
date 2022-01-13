@@ -1,0 +1,1 @@
+Para este código se utiliza la base de datos de la actividad 2. Si no se tiene descargada la carpeta del repositorio se debe descargar la carpeta "Car accidents" que se encuentra en la actividad 2. También se debe cambiar la ruta de la línea 5 para poder acceder a los datos.
